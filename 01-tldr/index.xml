@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TL;DR on Content Guide</title>
-    <link>/01-tldr/</link>
+    <link>https://kbatuigas.github.io/content-guide-template/01-tldr/</link>
     <description>Recent content in TL;DR on Content Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Dec 2019 11:25:27 -0800</lastBuildDate>
     
-	<atom:link href="/01-tldr/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kbatuigas.github.io/content-guide-template/01-tldr/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
