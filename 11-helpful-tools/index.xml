@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Helpful Tools on Content Guide</title>
+    <link>/11-helpful-tools/</link>
+    <description>Recent content in Helpful Tools on Content Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Dec 2019 20:22:02 -0800</lastBuildDate>
+    
+	<atom:link href="/11-helpful-tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
