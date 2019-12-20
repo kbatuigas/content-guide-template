@@ -3,6 +3,7 @@ title: "Writing About People"
 date: 2019-12-17T21:44:17-08:00
 draft: true
 weight: 4
+hidden: true
 ---
 
 Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make Crunchy a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning.
