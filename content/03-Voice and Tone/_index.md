@@ -35,8 +35,8 @@ It's all right to be funny when it’s appropriate and when it comes naturally t
 
 ## Style tips
 
-Here are a few key elements of writing Crunchy’s voice. For more, see the [Grammar and mechanics section](../05-grammar-and-mechanics/).
+Here are a few key elements of writing Crunchy’s voice. For more, see the <!--[Grammar and mechanics section](/content-guide-template/05-grammar-and-mechanics/). --> Grammar and mechanics section (forthcoming).
 
-* [**Active voice:**](/05-grammar-and-mechanics/#active-voice) Use active voice. Avoid passive voice.
-* [**Avoid slang and jargon:**](/05-grammar-and-mechanics/#slang-and-jargon) Write in plain English.
-* [**Write positively:**](/05-grammar-and-mechanics/#write-positively) Use positive language rather than negative language.
+* **Active voice:** Use active voice. Avoid passive voice.
+* **Avoid slang and jargon:** Write in plain English.
+* **Write positively:** Use positive language rather than negative language.
