@@ -2,7 +2,7 @@
 title: "Word List"
 date: 2019-12-18T11:01:11-08:00
 draft: false
-weight: 9
+weight: 11
 ---
 
 These words can be slippery. Here’s how we write them. (If it’s not on this list, defer to the [AP Style Guide](https://www.apstylebook.com/).)
@@ -59,6 +59,7 @@ These words can be slippery. Here’s how we write them. (If it’s not on this 
 
 ## Words to avoid
 
+- master/slave (we use primary/replica)
 - automagical
 - funnel, incentivize, leverage, disruption, thought leader, or other fluffy corporate terms
 - internets, interwebs, or any other variation of the word “internet”

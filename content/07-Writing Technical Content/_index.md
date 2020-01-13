@@ -5,7 +5,7 @@ draft: false
 weight: 7
 ---
 
-At Crunchy, technical content appears primarily in our [Access portal](https://access.crunchydata.com/) as well as our [blog](https://info.crunchydata.com/blog). This section will lay out the guiding principles of technical content, discuss the main types of technical content, and outline the process of writing and editing technical articles.
+At Crunchy, technical content appears primarily in our [Access portal](https://access.crunchydata.com/), our project repositories, our [blog](https://info.crunchydata.com/blog), and our [interactive Learning Portal](https://learn.crunchydata.com/). This section will lay out the guiding principles of technical content, briefly discuss the main types of technical content, and outline the process of writing and editing technical articles.
 
 ## Basics
 
@@ -23,21 +23,17 @@ When relevant, provide a brief outline of an article’s focus in an introductor
 
 ## Types of technical content
 
-Technical content articles vary in target audience, goal, and tone.
+Technical content articles vary in target audience, goal, and tone. Here are the main types of technical content we create:
 
-***Outline different types of technical content created by Crunchy?
+| Type                                                               | User                                                 | Goal                                                                                                                                                                                                                                                                                                                                                                                 |
+|--------------------------------------------------------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Documentation<br><br>- Reference guide<br>- User guide<br>- README | prospective, <br>new, <br>intermediate, <br>advanced | Helps the reader understand what the product does, and how to use it.<br><br>- Reference guide: <br>- User guide: Provide a high-level explanation of what the feature is, <br>how it works, and its benefit to the user. Walks through installation, <br>deployment, and usage. Include links to relevant tutorials.<br>- README: Explains what the project is, and how to use it.  |
+| Blog post                                                          |                                                      |                                                                                                                                                                                                                                                                                                                                                                                      |
+| Learning portal course<br>(learn.crunchydata.com)                  | prospective, <br>new, <br>intermediate               |                                                                                                                                                                                                                                                                                                                                                                                      |
 
-- Documentation
-  - Reference guides
-  - User guides
-- Blog posts
-- Katacoda?
-- etc?
 
-***Maybe individual sections/pages for each type? e.g. reference guides can contain examples but must be small and focused, whereas user guides/blog posts can be more "example-heavy"
-<!--Mailchimp technical content is built from templates, which serve different purposes and readers. Templates should be considered guidelines and are not intended to be prescriptive. We may deviate from or combine elements of different templates to best serve the reader. -->
+<!--Mailchimp technical content is built from templates, which serve different purposes and readers. Templates should be considered guidelines and are not intended to be prescriptive. We may deviate from or combine elements of different templates to best serve the reader. 
 
-<!--
 Here are some examples of article templates we use. 
 
 | **Article Template** | **User Type**                  | **Goal**                                                                        |
@@ -48,6 +44,9 @@ Here are some examples of article templates we use.
 | Tutorial             | new, intermediate              | **Guidance.** Briefly describe a task. Provide a roadmap and prerequisites, and clear step-by-step instructions. |
 
 -->
+
+Some general guidelines are described below. For guidelines specific to a type of article, check out the relevant page using the navigation menu.
+
 ## Guidelines
 
 ### Writing technical content
@@ -80,7 +79,9 @@ Technical content uses organization, capitalization, and other formatting to hel
 
 #### Capitalization
 
-Capitalize proper names of Crunchy Data products, features, pages, tools, and teams when directly mentioned. In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
+Capitalize proper names of Crunchy Data products, features, pages, tools, and teams when directly mentioned. 
+
+In step-by-step instructions, capitalize and bold navigation and button labels as they appear in the app.
 
 - 
 
@@ -93,9 +94,9 @@ Capitalize proper names of Crunchy Data products, features, pages, tools, and te
 
 #### Headings
 
-Organize article content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks.
+Organize content with H2s and H3s. Use H2s for higher-level topics or goals, and use H3s within each section for supporting information or tasks.
 
-Article title: 
+Name or Title: 
 
  - H2: 
  - H2: 
