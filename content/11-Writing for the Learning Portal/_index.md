@@ -1,7 +1,7 @@
 ---
 title: "Writing for the Learning Portal"
 date: 2020-01-14T15:12:18-08:00
-draft: true
+draft: false
 weight: 11
 ---
 
