@@ -53,14 +53,14 @@
 	"title": "Writing User Guides",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "When do we write user guides? Who are they for?\nGuidelines "
 },
 {
 	"uri": "https://kbatuigas.github.io/content-guide-template/09-writing-readmes/",
 	"title": "Writing READMEs",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "A README is a single file (typically .txt, or .md) that introduces the reader to the project repository. Like user guides, a README informs the reader what a project is for and how to use it. However, it could also contain additional information such as acknowledgements (project contributors), license, etc.\nGuidelines "
 },
 {
 	"uri": "https://kbatuigas.github.io/content-guide-template/10-writing-blog-posts/",
@@ -74,7 +74,7 @@
 	"title": "Writing for the Learning Portal",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": "The Crunchy Data Learning Portal contains interactive tutorials for learning PostgreSQL. It provides a complete learning environment where the uesr can focus on \u0026ldquo;learning by doing\u0026rdquo; without needing to worry about setting up their own apps, utilities, etc. The learning portal is powered by Katacoda.\nGuidelines "
 },
 {
 	"uri": "https://kbatuigas.github.io/content-guide-template/12-writing-for-accessibility/",
