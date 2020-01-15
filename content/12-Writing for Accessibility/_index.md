@@ -2,7 +2,7 @@
 title: "Writing for Accessibility"
 date: 2019-12-18T10:57:51-08:00
 draft: false
-weight: 10
+weight: 12
 ---
 
 We’re always working to make our content more accessible and usable to the widest possible audience. Writing for accessibility goes way beyond making everything on the page available as text. It also affects the way you organize content and guide readers through a page. Depending on the audience and country, there may be laws governing the level of accessibility required. At minimum, an accessible version should be available. Accessibility includes users of all mental and physical capacities, whether situational (broken glasses!) or more permanent.

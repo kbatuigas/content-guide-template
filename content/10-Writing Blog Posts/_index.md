@@ -2,7 +2,7 @@
 title: "Writing Blog Posts"
 date: 2020-01-10T11:49:02-08:00
 draft: true
-weight: 9
+weight: 10
 ---
 
 Crunchy publishes blog posts on our [company blog](info.crunchydata.com/blog), and are often also promoted on our social media channels (Twitter, LinkedIn). We updated the blog every [frequency?]. Blog posts typically cover the following:
