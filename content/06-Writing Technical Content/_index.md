@@ -2,7 +2,7 @@
 title: "Writing Technical Content"
 date: 2019-12-18T10:50:12-08:00
 draft: false
-weight: 7
+weight: 6
 ---
 
 At Crunchy, technical content appears primarily in our [Access portal](https://access.crunchydata.com/), our project repositories, our [blog](https://info.crunchydata.com/blog), and our [interactive Learning Portal](https://learn.crunchydata.com/). This section will lay out the guiding principles of technical content, briefly discuss the main types of technical content, and outline the process of writing and editing technical articles.

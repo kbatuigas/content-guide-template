@@ -5,6 +5,8 @@ draft: false
 weight: 3
 ---
 
+# Voice and Tone
+
 One way we write empowering content is by being aware of our voice and our tone. This section explains the difference between voice and tone, and lays out the elements of each as they apply to Crunchy.
 
 What’s the difference between voice and tone? Think of it this way: You have the same voice all the time, but your tone changes. You might use one tone when you're out to dinner with your closest friends, and a different tone when you're in a meeting with your boss.
@@ -25,17 +27,17 @@ All of this means that when we write content:
 
 2. **We are genuine.** We relate to customers’ challenges and passions and speak to them in a familiar, warm, and accessible way.
 
-3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify database- and open source-speak and actually educate.
+3. **We are translators.** Only experts can make what’s difficult look easy, and it’s our job to demystify database and open-source speak and actually educate.
 
 ## Tone
 
 When you’re writing, consider the reader’s state of mind. <!--Are they confused and seeking our help on Twitter? --> Once you have an idea of their emotional state, you can adjust your tone accordingly.
 
-It's all right to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
+It's alright to be funny when it’s appropriate and when it comes naturally to you. But don’t go out of your way to make a joke—forced humor can be worse than none at all. If you’re unsure, keep a straight face.
 
 ## Style tips
 
-Here are a few key elements of writing Crunchy’s voice. For more, see the <!--[Grammar and mechanics section](/content-guide-template/05-grammar-and-mechanics/). --> Grammar and mechanics section (forthcoming).
+Here are a few key elements of writing Crunchy’s voice. For more, see the [Grammar and mechanics section](./04-grammar-and-mechanics.md).
 
 * **Active voice:** Use active voice. Avoid passive voice.
 * **Avoid slang and jargon:** Write in plain English.

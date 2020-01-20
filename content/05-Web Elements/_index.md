@@ -2,7 +2,7 @@
 title: "Web Elements"
 date: 2019-12-18T10:45:53-08:00
 draft: false
-weight: 6
+weight: 5
 ---
 
 Every piece of content we publish is supported by a number of smaller pieces. This section lays out our style in regards to these web elements, and explains our approach to the tricky art of SEO.

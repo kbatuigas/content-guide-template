@@ -2,8 +2,7 @@
 title: "Grammar and Mechanics"
 date: 2019-12-17T21:46:51-08:00
 draft: true
-weight: 5
-hidden: true
+weight: 4
 ---
 
 Adhering to certain rules of grammar and mechanics helps us keep our writing clear and consistent. This section will lay out our house style, which applies to all of our content unless otherwise noted in this guide. (We cover a lot of ground in this section—the search feature will help if you're looking for something in particular.)
