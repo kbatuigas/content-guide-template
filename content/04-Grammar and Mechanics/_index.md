@@ -56,7 +56,7 @@ When writing out an email address or website URL, use all lowercase.
 - test@crunchydata.com
 - crunchydata.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
+Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](../16-word-list/).
 
 - website
 - internet
@@ -65,7 +65,7 @@ Don't capitalize random words in the middle of sentences. Here are some words th
 
 ### Contractions
 
-They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be [translated for an international audience](/13-writing-for-translation.html.md).
+They’re great! They give your writing an informal, friendly tone. In most cases, use them as you see fit. Avoid them if you're writing content that will be translated for an international audience.
 
 ### Emoji
 
@@ -298,8 +298,6 @@ When referring to a specific file, the filename should be lowercase:
 #### Pronouns
 
 If your subject’s gender is unknown or irrelevant, use “they,” “them,” and “their” as a singular pronoun. Use “he/him/his” and “she/her/her” pronouns as appropriate. Don’t use “one” as a pronoun.
-
-For more on writing about gender, see [Writing about people](/03-writing-about-people.html.md).
 
 #### Quotes
 
