@@ -45,7 +45,7 @@ Words like “was” and “by” may indicate that you’re writing in passive 
 
 One exception is when you want to specifically emphasize the action over the subject. In some cases, this is fine.
 
-- Your account was flagged by our abuse team.
+- Your account was flagged by our support team.
 
 ### Capitalization
 
@@ -82,10 +82,10 @@ Spell out a number when it begins a sentence. Otherwise, use the numeral. This i
 
 Sometimes it feels weird to use the numeral. If it's an expression that typically uses spelled-out numbers, leave them that way.
 
-- A friendly welcome email can help you make a great first impression.
+- A friendly welcome message can help you make a great first impression.
 - That is a third-party integration.
-- Put your best foot forward with the all-in-one Marketing Platform that grows with you.
-- After you send your newsletter, Freddie will give you a high-five.
+- pgMonitor is your all-in-one tool to visualize the health and performance of your PostgreSQL cluster.
+- After you write these functions, Martin will give you a high-five.
 
 Numbers over 3 digits get commas:
 
@@ -148,12 +148,12 @@ Use the degree symbol and the capital F abbreviation for Fahrenheit.
 
 #### Time
 
-Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time. 
+Use numerals and am or pm, with a space in between. Don’t use minutes for on-the-hour time.
 
-- 7 am 
+- 7 am
 - 7:30 pm
 
-Use a hyphen between times to indicate a time period. 
+Use a hyphen between times to indicate a time period.
 
 - 7 am–10:30 pm
 
@@ -202,7 +202,7 @@ You can also use a colon to join 2 related phrases. If a complete sentence follo
 
 #### Commas
 
-When writing a list, use the serial comma (also known as the Oxford comma). 
+When writing a list, use the serial comma (also known as the Oxford comma).
 
 - Yes: David admires his parents, Oprah, and Justin Timberlake.
 - No: David admires his parents, Oprah and Justin Timberlake.
@@ -321,13 +321,6 @@ Capitalize individual job titles when referencing to a specific role. Don't capi
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
-<!--#### Schools
-
-The first time you mention a school, college, or university in a piece of writing, refer to it by its full official name. On all other mentions, use its more common abbreviation.
-
-- Georgia Institute of Technology, Georgia Tech
-- Georgia State University, GSU -->
-
 #### States, cities, and countries
 
 Spell out all city and state names. Don’t abbreviate city names.
@@ -344,22 +337,13 @@ Avoid spelling out URLs, but when you need to, leave off the http://www.
 
 #### Writing about Crunchy Data
 
-Our company's legal entity name is "" Our trade name is "Crunchy Data." Use "" only when writing legal documents or contracts. Otherwise, use "Crunchy Data."
+Our company's legal entity name is "Crunchy Data Solutions, Inc." Our trade name is "Crunchy Data." Use "Crunchy Data Solutions, Inc." only when writing legal documents or contracts. Otherwise, use "Crunchy Data." "Crunchy" may be used in less informal content (e.g. blog posts), and only after having specified "Crunchy Data" once.
 
 Always capitalize the first “C” and the “D” in Crunchy Data.
 
 Refer to Crunchy Data as “we,” not “it.”
 
-Capitalize branded terms, like Crunchy Certified. <!--We also capitalize pricing plan names (Premium, Standard, Essentials, and Free) to distinguish them from generic use of those adjectives. -->
-
-Don’t capitalize descriptive product or feature names, like email or landing pages. 
-
-<!--
-- Mandrill
-- templates
-- Mailchimp’s mobile app
-- Essentials plan
--->
+Capitalize branded terms, like Crunchy Certified. 
 
 #### Writing about other companies
 
@@ -375,7 +359,7 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-<!--- Mailchimp's ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure. -->
+<!--- Our ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure. -->
 
 ### Text formatting
 
@@ -384,10 +368,10 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use italics when citing an example of an in-app Crunchy Data element, or referencing button and navigation labels in step-by-step instructions:
+<!--Use italics when citing an example of an in-app Crunchy Data element, or referencing button and navigation labels in step-by-step instructions:
 
-- When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
+- When you're all done, click **.
+- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once. -->
 
 Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
 
