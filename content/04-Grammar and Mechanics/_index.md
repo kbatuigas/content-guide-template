@@ -1,7 +1,7 @@
 ---
 title: "Grammar and Mechanics"
 date: 2019-12-17T21:46:51-08:00
-draft: true
+draft: false
 weight: 4
 ---
 
