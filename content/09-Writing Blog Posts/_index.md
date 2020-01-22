@@ -1,7 +1,7 @@
 ---
 title: "Writing Blog Posts"
 date: 2020-01-10T11:49:02-08:00
-draft: true
+draft: false
 weight: 9
 ---
 
@@ -44,6 +44,8 @@ Each blog post should contain an introductory paragraph to inform the reader of 
 
 ### Link it up
 Feel free to link away from Crunchy pages if it helps you explain something.
+
+> It would also be great if a [Learning Portal (Katacoda)](../10-writing-for-the-learning-portal/) scenario accompanied the blog post. This helps Crunchy build up our learning material and drives additional traffic to our other content.
 
 ### Use pictures
 Include images in your blog posts when it makes sense. If you’re explaining how to use a GUI tool, screenshots can help illustrate your point. Make sure to use alt text.

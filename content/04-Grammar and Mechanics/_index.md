@@ -82,10 +82,8 @@ Spell out a number when it begins a sentence. Otherwise, use the numeral. This i
 
 Sometimes it feels weird to use the numeral. If it's an expression that typically uses spelled-out numbers, leave them that way.
 
-- A friendly welcome message can help you make a great first impression.
-- That is a third-party integration.
-- pgMonitor is your all-in-one tool to visualize the health and performance of your PostgreSQL cluster.
-- After you write these functions, Martin will give you a high-five.
+- third-part integration
+- all-in-one
 
 Numbers over 3 digits get commas:
 
@@ -312,7 +310,7 @@ The first time you mention a person in writing, refer to them by their first and
 Capitalize the names of departments and teams (but not the word "team" or "department").
 
 - Marketing team
-- Support department
+- Human Resources department
 
 Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
 
